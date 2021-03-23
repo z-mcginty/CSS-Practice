@@ -1,0 +1,20 @@
+button{
+    width: 75px;
+    height: 30px;
+    border-radius: 6px;
+    border-width: 1px;
+    border-color: rgb(70, 191, 255);
+    background-color: rgb(70, 191, 255);
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: rgb(37, 82, 114);
+    border-color: rgb(37, 82, 114);
+}
+
+button:focus {
+    outline: none;
+}
